@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Muhau Nawa
 
-## 💻 Solution-Driven Software Engineer | Mobile, Frontend & Backend Developer | Lifelong Learner
+## 💻 Solution-Driven Software Engineer | Mobile / Web, Frontend & Backend Developer | Lifelong Learner
 
 I'm a passionate and experienced software engineer with over a decade of hands-on expertise in designing and developing robust software solutions. I specialize in building intelligent systems, scalable backend services, and beautiful mobile applications using Flutter and Dart. I thrive on continuous learning and enjoy solving complex technical problems using C/C++, Python, JavaScript, PHP, C#, Dart and Java.
 
